@@ -1,0 +1,20 @@
+body{
+    background-color: rgb(3, 4, 51);
+}
+
+#loc{
+    color: white;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size:medium;
+    margin-left: 10px;
+    margin-top: 25px;
+}
+
+#profile_photo{
+    width: 250px;
+    height: 250px;
+    border-radius: 50%;
+    object-fit: cover;
+    margin-left: 450px;
+    margin-top: 60px;
+}
