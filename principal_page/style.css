@@ -1,5 +1,5 @@
 body{
-    background-image: url('C:/Estudos/CESAR/IC/git/Portfolio_website/portfolio_website/Images/Background.png');
+    background-image: url("portfolio_website/principal_page/Background.png");
 }
 
 #loc{
@@ -31,7 +31,7 @@ h1{
     align-items: center;
     gap: 8px;
     padding: 6px 12px;
-    background-color: #1c1c1e;
+    background-color: #272729;
     color: #fff;
     text-decoration: none;
     border-radius: 20px;
