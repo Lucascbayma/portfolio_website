@@ -10,6 +10,30 @@ body{
     margin-top: 25px;
 }
 
+.menu-central{
+  display: flex;
+  gap: 30px;
+  align-items: center;
+}
+
+.menu-central a{
+  text-decoration: none;
+  color: white;
+  font-size: 18px;
+  font-weight: bold;
+  transition: color 0.3s;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.menu-central a:hover{
+  color: #13629b;
+}
+
+.tela-inteira{
+  display: flex;
+  justify-content: center;
+}
+
 h1{
     color: rgb(255, 255, 255);
     text-align: left;
