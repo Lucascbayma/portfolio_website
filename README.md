@@ -1,6 +1,6 @@
 # PORTFOLIO WEBSITE
 
-Hello, world! That's my first Website. I hope you like it!
+Hello, world! That's my **first** Website. I hope you like it!
 
 ## **Languages / Applications** 
 
