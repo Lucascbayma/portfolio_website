@@ -77,6 +77,98 @@ body{
   font-size: large;
   display: flex;
   justify-content:center;
-  margin-left: 200px;
+  margin-left: 300px;
+  margin-top: 40px;
 }
 
+.profile_git{
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    padding: 6px 6px;
+    background-color: #272729;
+    color: #ffffff;
+    text-decoration: none;
+    border-radius: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 14px;
+    transition: background-color 0.3s;
+    margin-left: 730px;
+    margin-top: 20px;
+}
+
+.img_git{
+    width: 24px;
+    height: 24px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+
+.profile_linkedin{
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    padding: 6px 12px;
+    background-color: #272729;
+    color: #ffffff;
+    text-decoration: none;
+    border-radius: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 14px;
+    transition: background-color 0.3s;
+    margin-left: 30px;
+    margin-top: 20px;
+}
+
+.img_linkedin{
+    width: 24px;
+    height: 24px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+
+.profile_itchio{
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    padding: 6px 12px;
+    background-color: #272729;
+    color: #ffffff;
+    text-decoration: none;
+    border-radius: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 14px;
+    transition: background-color 0.3s;
+    margin-left: 30px;
+    margin-top: 20px;
+}
+
+.img_itchio{
+    width: 24px;
+    height: 24px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+
+.profile_email{
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    padding: 6px 12px;
+    background-color: #272729;
+    color: #ffffff;
+    text-decoration: none;
+    border-radius: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 14px;
+    transition: background-color 0.3s;
+    margin-left: 30px;
+    margin-top: 20px;
+}
+
+.img_email{
+    width: 24px;
+    height: 24px;
+    border-radius: 50%;
+    object-fit: cover;
+}
