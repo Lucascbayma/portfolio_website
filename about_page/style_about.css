@@ -10,6 +10,18 @@ body{
     margin-top: 25px;
 }
 
+#clock{
+  position: fixed;
+  top: 10px;
+  right: 20px;
+  font-size: 18px;
+  font-family: monospace;
+  color: white;
+  background-color: rgba(0, 0, 0, 0.7);
+  padding: 8px 12px;
+  border-radius: 8px;
+}
+
 .menu-central{
   display: flex;
   gap: 30px;
