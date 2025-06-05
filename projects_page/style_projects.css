@@ -1,5 +1,5 @@
 body{
-    background-image: url("Background.png");
+    background-color: rgb(30, 13, 70);
 }
 
 #loc{
@@ -32,4 +32,70 @@ body{
 .tela-inteira{
   display: flex;
   justify-content: center;
+}
+
+.project1{
+  display: flex;
+  align-items: flex-start;
+  gap: 30px;
+  margin-top: 170px;
+  margin-left: 200px;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.video{
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.3);
+  width: 400px;
+  height: auto;
+}
+
+.project1_text{
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+
+.project1_title{
+  font-size: 28px;
+  color: white;
+  margin: 0;
+}
+
+.project1_subt{
+  color: white;
+  font-size: 16px;
+  margin-top: 70px;
+}
+
+.project2{
+  display: flex;
+  align-items: flex-start;
+  gap: 30px;
+  margin-top: 150px;
+  margin-left: 200px;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.img_game{
+  width: 500px;
+  height: auto;
+  border-radius: 10px;
+}
+.project2_text{
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+
+.project2_title{
+  font-size: 28px;
+  color: white;
+  margin: 0;
+}
+
+.project2_subt{
+  color: white;
+  font-size: 16px;
+  margin-top: 70px;
 }
