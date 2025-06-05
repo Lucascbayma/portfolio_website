@@ -1,6 +1,7 @@
 body{
-    background-image: url("Background.png");
+    background-color: rgb(30, 13, 70);
 }
+
 
 #loc{
     color: white;
